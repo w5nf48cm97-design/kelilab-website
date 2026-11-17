@@ -1,0 +1,40 @@
+{
+  "name": "KeliLab",
+  "domain": "kelilab.es",
+  "description": "Apps para poner orden. Juegos para hacer una pausa. Descubre We're Out! y GeoBlock, de KeliLab.",
+  "language": "es",
+  "publicContactEmail": null,
+  "legalOwner": null,
+  "updated": "2026-11-17",
+  "adMobPublisherLine": null,
+  "apps": [
+    {
+      "id": "wereout",
+      "name": "We're Out!",
+      "type": "apps",
+      "category": "Organización del hogar",
+      "short": "Tu casa, un poco más en orden.",
+      "description": "Lo que tienes, lo que falta y lo que toca comprar. Un lugar para organizar el día a día de tu hogar.",
+      "playUrl": null,
+      "icon": "assets/wereout/icon.png",
+      "privacyStatus": "draft",
+      "features": [
+        {"title": "Todo lo que tienes", "text": "Consulta el inventario de tu nevera, congelador y despensa."},
+        {"title": "Lo que toca comprar", "text": "Reúne lo que falta en tu lista de la compra."},
+        {"title": "Las fechas, a la vista", "text": "Mantén localizadas las fechas de caducidad de tus productos."}
+      ]
+    },
+    {
+      "id": "geoblock",
+      "name": "GeoBlock",
+      "type": "juegos",
+      "category": "Juego de bloques",
+      "short": "Haz sitio para un buen rato.",
+      "description": "Bloques, color y un momento para ti. Descubre el juego de KeliLab.",
+      "playUrl": null,
+      "icon": "assets/geoblock/geoblock.png",
+      "privacyStatus": "draft",
+      "features": []
+    }
+  ]
+}
